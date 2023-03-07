@@ -15,4 +15,5 @@ This repository contains my analysis of the Walmart Sales available on Kaggle(ht
 1. Pandas
 2. Numpy
 3. Scikit learn
+
 I used Power BI for visualiztions
